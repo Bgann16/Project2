@@ -22,7 +22,7 @@ This guide will help you get the project up and running on your local machine fo
 
 Before you begin, ensure you have met the following requirements:
 * You have a `<Xcode>` installed.
-* You have installed the latest version of `<SwiftUI>`.
+* You have installed the latest version of `<Xcode>`.
 * You have SF Symbol 5 download and accepted its terms.
 
 ## Downloading the Project
