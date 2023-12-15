@@ -46,3 +46,5 @@ npm install
 # Example command to run the project
 npm start
 
+## Acknowledgments
+Design+Code
