@@ -27,6 +27,9 @@ Before you begin, ensure you have met the following requirements:
 
 ## Downloading the Project
 
+## Acknowledgments
+Design+Code
+
 To download the project, follow these steps:
 
 1. Open your terminal.
@@ -45,6 +48,3 @@ npm install
 
 # Example command to run the project
 npm start
-
-## Acknowledgments
-Design+Code
